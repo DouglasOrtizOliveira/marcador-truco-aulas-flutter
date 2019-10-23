@@ -5,9 +5,7 @@ Aplicativo para marcar os pontos no jogo de truco criado para disciplina de Prog
 Tutorial de criação deste app: http://bit.ly/2MDO6ww
 
 <p align="center">
-    <img src="https://github.com/DouglasOrtizOliveira/marcador-truco-aulas-flutter/blob/master/images/Screenshot_1.png"/>
-    <img src="https://github.com/DouglasOrtizOliveira/marcador-truco-aulas-flutter/blob/master/images/Screenshot_2.png"/>
-    <img src="https://github.com/DouglasOrtizOliveira/marcador-truco-aulas-flutter/blob/master/images/Screenshot_3.png"/>
+    <img src="https://github.com/DouglasOrtizOliveira/marcador-truco-aulas-flutter/blob/master/images/Screenshot_1.png"/>  <img src="https://github.com/DouglasOrtizOliveira/marcador-truco-aulas-flutter/blob/master/images/Screenshot_2.png"/>  <img src="https://github.com/DouglasOrtizOliveira/marcador-truco-aulas-flutter/blob/master/images/Screenshot_3.png"/>
 </p>
 
 ## Como clonar e importar
